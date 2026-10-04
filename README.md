@@ -109,3 +109,9 @@ something breaks, I keep symptom-keyed fixes in
 Build scripts and the Rust helper in this repository are released into the public
 domain under the [Unlicense](UNLICENSE). The Wispr Flow application itself is
 proprietary and subject to its own terms.
+
+## Author
+
+Fork author and maintainer: [rajivranjanmars](https://rajivranjana.in).
+
+This repository is a fork; existing upstream author credits and license terms remain applicable.
